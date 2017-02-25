@@ -1,5 +1,5 @@
 var ball = document.querySelector(".discoball");
-	var array = ["here", "goes", "our", "awesome", "disco", "ball"];
+	var array = new Array("here", "goes", "our", "awesome", "disco", "ball");
 	var i =0;
 
 function goDisco() {
